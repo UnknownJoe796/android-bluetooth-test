@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">BluetoothRemoteExecution</string>
+    <string name="select_your_device">Select your device</string>
+    <string name="select_a_command">Select a command</string>
+    <string name="input_instructions">Please write your inputs in JSON format.</string>
+    <string name="submit">Submit</string>
+    <string name="response_x">Response: %1$s</string>
 </resources>
